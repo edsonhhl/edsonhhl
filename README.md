@@ -1,22 +1,25 @@
 # Olá, sou Edson Lima! 👋
 
-**Desenvolvedor Web | E-commerce | Tecnologia**
+**Analista de Sistemas | Desenvolvedor Front-end | E-commerce**
 
-Trabalho com desenvolvimento web, personalização de lojas virtuais e integração de sistemas, principalmente utilizando Magento, WordPress e PHP.
+Sou Analista de Sistemas, com experiência em desenvolvimento web, e-commerce e infraestrutura de TI.
 
-Também tenho experiência com infraestrutura de TI e atualmente estou cursando Desenvolvimento Mobile, ampliando meus conhecimentos na criação de aplicativos.
+Atuo no desenvolvimento e personalização de interfaces, manutenção e evolução de lojas virtuais, integrações de sistemas e soluções voltadas para o comércio eletrônico.
+
+Tenho experiência com plataformas de e-commerce, como Magento e Hyvä, WordPress, sistemas ERP e tecnologias como PHP, JavaScript, HTML e CSS, além de conhecimentos em servidores, redes e bancos de dados.
 
 ## 🛠️ Tecnologias e ferramentas
 
-- **Desenvolvimento:** PHP, JavaScript, HTML, CSS e Java
-- **E-commerce e CMS:** Magento 1 e 2, Hyvä e WordPress
+- **Front-end:** HTML5, CSS3, JavaScript, Tailwind CSS e Hyvä
+- **Back-end:** PHP e Java
+- **E-commerce, CMS e ERP:** Magento 1 e 2, WordPress e sistemas ERP
 - **Banco de dados:** MySQL
 - **Ferramentas:** Git, GitHub, Docker e VS Code
-- **Infraestrutura:** Linux, redes e servidores
+- **Infraestrutura:** Linux, servidores, redes e hospedagem web
 
 ## 🚀 Projetos
 
-Aqui compartilho projetos de desenvolvimento web, e-commerce, integrações e aplicações desenvolvidas durante meus estudos.
+Neste GitHub compartilho projetos relacionados a desenvolvimento Front-end, e-commerce, integrações de sistemas e outras soluções tecnológicas.
 
 ## 📫 Contato
 
